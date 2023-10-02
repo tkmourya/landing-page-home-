@@ -27,6 +27,7 @@ background-color: white;
 }
 
 #lnav{
+    
     display: flex;
     justify-content: space-between;
     width: 100%;
@@ -51,13 +52,16 @@ background-color: white;
 }
 
 #left #textcenter{
+   
     position: absolute;
     top:50%;
     left:50%;
-    transform: translate(-50%, -50%) ;
+    transform: translate(-50%, -40%)
 }
 
 #textcenter h1{
+    
+    
     font-size: 90px;
     font-weight: 900;
 }
@@ -65,8 +69,8 @@ background-color: white;
 #textcenter p{
     font-size: 12px;
     line-height: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     opacity: .6;
 
 }
@@ -75,7 +79,7 @@ background-color: white;
     text-decoration: none;
     color: #000;
     border-bottom: 1px solid #000;
-    padding-bottom: 5px;
+    padding-bottom: 3px;
     font-size: 15px;
     font-weight: 300;
     opacity: .8;
