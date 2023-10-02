@@ -99,9 +99,9 @@ background-color: white;
 #rbottom{
     width: 100%;
     height: 50%;
-    background-image: url(https://img.freepik.com/free-photo/still-life-sunflower-bouquet_23-2150490847.jpg?t=st=1696225409~exp=1696229009~hmac=61219a191e16c67eca2d3ad1b343a198a66d57e651a7ad75bafba0d42d9e6ae9&w=996);
+    background-image: url(https://img.freepik.com/free-photo/elegant-modern-vase-design_23-2150529731.jpg?t=st=1696250564~exp=1696254164~hmac=198010f589940c8da01a19fceff0b971a9ec8fbe862a6e085be8743bfa8bb7ef&w=1060);
     background-size: cover;
-    background-position: bottom ;
+    background-position: center ;
     
 }
 #rtopleft{
@@ -128,7 +128,7 @@ background-color: white;
     
     width: 100%;
     height: 100%;
-    background-image: url(https://img.freepik.com/free-photo/elegant-modern-vase-design_23-2150529763.jpg?t=st=1696225264~exp=1696228864~hmac=0739f9d2a71eaa0c6d904ed6796abc33442ccab780156ab9fab405a620e05b41&w=1060);
+    background-image: url(https://img.freepik.com/free-photo/colorful-easter-egg-sits-purple-background_1340-29498.jpg?t=st=1696247020~exp=1696250620~hmac=36e96c26bc7480de86078bc96e00d7915de9cadfe747cde970c1a2a047cb6203&w=996);
     background-size: cover;
      background-position: bottom ;
 }
@@ -153,7 +153,7 @@ background-color: white;
     #lbottom-2{
         width: 100%;
         height: 50%;
-        background-image: url(https://img.freepik.com/free-photo/still-life-sunflower-bouquet_23-2150490847.jpg?t=st=1696225409~exp=1696229009~hmac=61219a191e16c67eca2d3ad1b343a198a66d57e651a7ad75bafba0d42d9e6ae9&w=996);
+        background-image: url(https://img.freepik.com/free-photo/elegant-modern-vase-design_23-2150529725.jpg?t=st=1696250347~exp=1696253947~hmac=db46292d6181be69cac6e9a5dfb2f4468e8650718b9bbb86483f812073500904&w=1060);
         background-size: cover;
         background-position: bottom ;
         
@@ -162,7 +162,7 @@ background-color: white;
     #ltopleft-2{
         width: 55%;
         height: 100%;
-        background-image: url(https://img.freepik.com/free-photo/elegant-modern-vase-design_23-2150529763.jpg?t=st=1696225264~exp=1696228864~hmac=0739f9d2a71eaa0c6d904ed6796abc33442ccab780156ab9fab405a620e05b41&w=1060);
+        background-image: url(https://img.freepik.com/free-photo/free-photo-beauty-product-bottle-mockup-image-with-background_1340-31418.jpg);
         background-position: center;
         background-size: cover;
     }
@@ -170,7 +170,7 @@ background-color: white;
     #ltopright-2{
         width: 45%;
         height: 100%;
-        background-image: url(https://img.freepik.com/free-photo/elegant-modern-vase-design_23-2150529742.jpg?t=st=1696225328~exp=1696228928~hmac=f13f1186141fcf6aad8b9717c85ad63b907326e8aaba9998571d98a79611cf9c&w=1060);
+        background-image: url(https://img.freepik.com/free-photo/free-photo-beauty-product-bottle-mockup-image-with-background_1340-31353.jpg);
         background-size: cover;
         background-position: center;
     }    
